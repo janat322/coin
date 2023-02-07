@@ -52,3 +52,155 @@ font-family: 'Tinos', serif */
 }
 
 
+.header-wrapper{
+    width: 1440px;
+    margin-left: 105px;
+}
+
+.header-title{
+    width: 420px;
+    height: 180px;
+    margin-top: 270px;
+    font-weight: 400;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header-txt{
+    margin-bottom: 42px;
+    margin-top: 44px;
+    font-weight: 400;
+    font-size: 21px;
+    color: #40494D;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header-btn{
+    padding: 19px 50px;
+    font-weight: 400;
+    background: #283337;
+    color: white;
+    border-radius: 56px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-img{
+    position: absolute;
+    right: 300px;
+    bottom: 0;
+    top: 250px;
+}
+
+.footer-wrapper{
+    width: 1330px;
+    margin-top: 350px;
+    margin-left: 142px;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+/* section */
+.section-wrapper{
+    height: 1658px;
+    width: 1280px;
+    margin-top: 224px;
+    margin-left: 160px;
+}
+
+.section-title{
+    font-weight: 400;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #283337;
+}
+
+.section-txt{
+    font-weight: 400;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #40494D;
+    margin-top: 28px;
+}
+
+.section-btn{
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; 
+    background: #283337;
+    color: white;
+    border-radius: 56px;
+    padding: 15px 25px;
+    margin-top: 40px;
+}
+.second-block{
+    position: absolute;
+    top: 1500px;
+    left: 1020px;
+}
+
+.second-block__title{
+    font-family: 'Arial';
+    font-weight: 400;
+    font-size: 32px;
+    color: #283337;
+    margin-top: 30px;
+}
+
+.second-block__txt{
+    font-family: 'Arial';
+    font-weight: 400;
+    font-size: 18px;
+    color: #40494D;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.learn{
+    color: #283337;
+    margin-left: 270px;
+}
+
+
+/* results */
+
+.result-wrapper{
+    position: absolute;
+    top: 1853px;
+    margin-top: 440px;
+    height: 668px;
+    width: 1440px;
+    border: solid black;
+}
+
+.result-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
+    font-family: 'Times New Roman';
+    color: #283337;
+}
+.block{
+}
+
+.block-title{
+    font-family: 'Arial';
+    font-weight: 400;
+    font-size: 52px;
+    text-align: center;
+    color: #283337;
+}
+
+.block-txt{
+    font-family: 'Arial';
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #40494D;
+    margin-top: 20px;
+}
+
+
+
